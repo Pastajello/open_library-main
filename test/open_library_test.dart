@@ -1,6 +1,5 @@
-import 'package:open_library/models/ol_book_model.dart';
-
-import 'package:open_library/open_library.dart';
+import 'package:open_library_api/models/ol_book_model.dart';
+import 'package:open_library_api/open_library.dart';
 import 'package:test/test.dart';
 
 void main() {

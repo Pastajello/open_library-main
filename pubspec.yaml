@@ -1,4 +1,4 @@
-name: open_library
+name: open_library_api
 description: A flutter package to consume the openlibrary.org api in a simple way
 version: 0.1.6
 homepage: https://github.com/Pastajello/open_library-main

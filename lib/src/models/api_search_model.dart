@@ -1,6 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:json_annotation/json_annotation.dart';
-import 'package:open_library/src/models/api_search_doc_model.dart';
+
+import 'api_search_doc_model.dart';
 
 part 'api_search_model.g.dart';
 
