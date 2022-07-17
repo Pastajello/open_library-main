@@ -1,4 +1,7 @@
 ## 0.1.5
+* Remove Flutter dependancies. Now package is pure dart
+
+## 0.1.5
 * Bugfix: Error in pattern builder to render search patterns without title now works
 
 ## 0.1.4
