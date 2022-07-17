@@ -1,9 +1,8 @@
 This is a fork of https://gitlab.com/alange/open_library
 
-
 # open_library
 
-A Flutter implementation of openlibrary.org api.
+A Dart implementation of openlibrary.org api.
 
 ## Features
 
